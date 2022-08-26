@@ -1,3 +1,3 @@
-import uploadIndex from './src/uploadIndex.vue'
+import uploadIndex from './src/index/uploadIndex.vue';
 
-export default uploadIndex
+export default uploadIndex;
